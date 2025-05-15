@@ -24,7 +24,7 @@ Built with:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-success-predictor.git
+git clone https://github.com/datasci-abi/movie-success-predictor.git
 cd movie-success-predictor
 ```
 
