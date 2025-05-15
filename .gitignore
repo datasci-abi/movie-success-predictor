@@ -1,0 +1,14 @@
+# Ignore Python cache and venv
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter/IPython files
+.ipynb_checkpoints/
+
+# Mac OS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Streamlit generated files
+.streamlit/
