@@ -82,7 +82,7 @@ movie-success-predictor/
 ## 📝 Credits
 
 - Dataset: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-- Built by [YOUR NAME] using Python & Streamlit
+- Built by datasci-abi using Python & Streamlit
 
 ---
 
